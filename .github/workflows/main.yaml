@@ -1,5 +1,5 @@
 name: Workflow Name
-on: pull_request
+on: push
 jobs:
   Deploy-Asset:
     runs-on: ubuntu-latest
